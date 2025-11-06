@@ -21,12 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio285&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/sergiogamer285?si=yvHyuqJUSI-MzbVktblxPA" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sergiogamer285&count=5" alt="Spotify recently played" />
-  </a>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergio285/sergio285/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergio285/sergio285/output/pacman-contribution-graph.svg">
