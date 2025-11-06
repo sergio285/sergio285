@@ -1,0 +1,22 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    # Se ejecuta cada 12 horas
+    - cron: "0 */12 * * *"
+  # Permite ejecutarlo manualmente
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Pacman
+    steps:
+      - uses: actions/checkout@v3
+      - uses: aelassas/contribution-graph-generator@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch_name: 'output' # El nombre de la rama donde se guardarán los SVGs
+          svg_file_name: 'pacman-contribution-graph.svg'
+          svg_file_name_dark: 'pacman-contribution-graph-dark.svg'
+          graph_type: 'pacman' # El tipo de gráfico
