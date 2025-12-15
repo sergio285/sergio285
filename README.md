@@ -8,7 +8,7 @@
 
 <img align="left" height="200" src="assets/raccon.gif" />
 
-<h4 align="left">
+<h4 align="left" padding-left="20px">
 I am an engineer focused on the end-to-end lifecycle of intelligent systems. My expertise spans the full data science pipeline, from data cleaning and preprocessing to training and evaluating supervised/unsupervised models. I am proficient in specialized deep learning architectures (CNNs, RNNs, NLP, LLMs) and bridge the gap to production by building robust backend APIs using Python (FastAPI/Flask) and Java (SpringBoot). I am skilled in leveraging AWS (S3, EC2, SageMaker) to handle large-scale data and deploy scalable solutions.
 </h4>
 
