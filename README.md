@@ -1,24 +1,30 @@
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20there!%20Glad%20you%20stopped%20by.%20I'm%20Sergio&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random" />
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <body>
+    <div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20there!%20Glad%20you%20stopped%20by.%20I'm%20Sergio&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
 <h1 align="center"></h1>
 
-<div align="left">
-  <img src="https://i.pinimg.com/originals/87/8c/53/878c5376b10b2f842a06fae2d386c463.gif" alt="Coding GIF" width="200" />
-</div>
+<img align="left" height="200" src="https://i.pinimg.com/originals/87/8c/53/878c5376b10b2f842a06fae2d386c463.gif"  />
 
-<h4 align="left">
-  I am an engineer focused on the end-to-end lifecycle of intelligent systems. My expertise spans the full data science pipeline, from data cleaning and preprocessing to training and evaluating supervised/unsupervised models. I am proficient in specialized deep learning architectures (CNNs, RNNs, NLP, LLMs) and bridge the gap to production by building robust backend APIs using Python (FastAPI/Flask) and Java (SpringBoot). I am skilled in leveraging AWS (S3, EC2, SageMaker) to handle large-scale data and deploy scalable solutions.
-</h4>
+<h4 align="left">I am an engineer focused on the end-to-end lifecycle of intelligent systems. My expertise spans the full data science pipeline, from data cleaning and preprocessing to training and evaluating supervised/unsupervised models. I am proficient in specialized deep learning architectures (CNNs, RNNs, NLP, LLMs) and bridge the gap to production by building robust backend APIs using Python (FastAPI/Flask) and Java (SpringBoot). I am skilled in leveraging AWS (S3, EC2, SageMaker) to handle large-scale data and deploy scalable solutions.</h4>
+<p align="left"></p>
+
+###
 
 <p align="left"></p>
+
+###
+
 <p align="left"></p>
-<p align="left"></p>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergio285&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio285&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sergio285&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio285&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
@@ -55,6 +61,12 @@
 
 </div>
 
+
+
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
+
+###
+  </body>
+</html>
